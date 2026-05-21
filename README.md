@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # 🧠 Memory Match
@@ -216,11 +215,11 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ```text
 MIT License
 
-Copyright (c) 2026 Memory Match
+Copyright (c) 2025 Memory Match
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including, without limitation, the rights
+in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
@@ -238,3 +237,5 @@ copies or substantial portions of the Software.
 ⭐ If you like this project, give it a star on GitHub!
 
 [⬆ Back to Top](#-memory-match)
+
+</div>
